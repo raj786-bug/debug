@@ -7,7 +7,7 @@ b.add(4)
 b.add(4)
 b.add(5)
 b.add(5) # Adding a value repeatedly does not changes a set
-b.add((4, 5, 6))
+b.add((4, 5, 6,7))
 
 ## Accessing Elements
 # b.add({4:5}) # Cannot add list or dictionary to sets
